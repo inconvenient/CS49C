@@ -1,0 +1,10 @@
+16:27:06 **** Incremental Build of configuration Debug for project TicketBooth ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -pthread -o "src\\TicketSeller.o" "..\\src\\TicketSeller.cpp" 
+..\src\TicketSeller.cpp:4:22: fatal error: semaphore.h: No such file or directory
+ #include<semaphore.h>
+                      ^
+compilation terminated.
+
+16:27:06 Build Finished (took 197ms)
+

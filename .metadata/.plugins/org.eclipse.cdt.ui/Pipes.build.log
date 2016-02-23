@@ -1,0 +1,9 @@
+16:27:06 **** Build of configuration Debug for project Pipes ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[F:\MinGW\bin;C:/Program Files/Java/jre1.8.0_51/bin/server;C:/Program Files/Java/jre1.8.0_51/bin;C:/Program Files/Java/jre1.8.0_51/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone;F:\Cygwin64\bin;C:\Program Files (x86)\Eclipse\Eclipse C]
+
+16:27:06 Build Finished (took 78ms)
+

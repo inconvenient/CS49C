@@ -1,0 +1,18 @@
+Command: CUE
+No tracks loaded.
+
+Command: PLAY
+No track cued.
+
+Command: PLAY
+No track cued.
+
+Command: LOAD
+Loaded: "Sheep" by Backsheep Boys
+
+Command: FAIL
+Unrecognized command: FAIL
+
+"Much Money" by Snoop Doge
+"I Kissed A Dinosaur" by Katy Beary
+"Sushimaker" by Taylor Fish
